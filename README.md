@@ -9,9 +9,9 @@ Procurando uma API gratuita e de alto desempenho para consultar estados, cidades
 `GET /estados`
 
 ### [Cidades](https://api-brasil.herokuapp.com/Pernambuco/cidades)
-`GET /:estados/cidades`
+`GET /:estado/cidades`
 
 ### [Bairros](https://api-brasil.herokuapp.com/Pernambuco/Olinda/bairros)
-`GET /:estados/:cidade/bairros`
+`GET /:estado/:cidade/bairros`
 
 Esse API é gratuita e hoje temos um custo mensal para manter os servidores. Se deseja [ajudar](https://app.picpay.com/user/hugo.a.lyra) agradecemos muito.
